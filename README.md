@@ -71,3 +71,11 @@ Here is a sample of configuration data extracted from a `.slot` file:
     TPS_Distance = 10
 }
 ```
+Observations:
+- Each block starts with [: cClassName], defining an entity type.
+- Inside { ... } are key/value pairs (numbers, strings, or comma-separated lists).
+- ModelName points to game assets like .drs (3D models).
+- Likely represents objects/actors in missions, with properties for AI, collisions, and rendering.
+- This shows how objects, models, and gameplay properties are defined inside the game files.
+
+More examples will be added as additional .slot content is documented.
