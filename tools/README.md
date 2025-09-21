@@ -29,7 +29,7 @@ This tool scans `.slot` files from the game **Raven Squad** and extracts **zlib-
 ## Installation
 1. Make sure you have [**Python 3.x**](https://www.python.org/downloads/).
 2. download [this](https://github.com/DiyarMohammed1/Project-RavenSquad/blob/main/tools/extract_slot.py).
-3. Place your .slot files in a folder (e.g., slot files/).
+3. Place your `.slot` files in a folder (e.g., slot files/).
 
 ---
 
