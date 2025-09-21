@@ -1,6 +1,6 @@
 # Project Raven Squad – Reverse Engineering
 
-join our discord [Project-RavenSquad] (https://discord.gg/TN8BgX4xy5)
+join our discord [Project-RavenSquad](https://discord.gg/TN8BgX4xy5)
 
 ## Overview
 **Raven Squad: Operation Hidden Dagger** is a tactical first-person shooter and real-time strategy hybrid released in 2009 for Windows and Xbox 360. Players control an elite mercenary team navigating hostile environments with a mix of squad-based tactics and direct combat. Each squad member has unique abilities, and players can seamlessly switch between first-person action and top-down tactical command, offering a dynamic strategic gameplay experience.
