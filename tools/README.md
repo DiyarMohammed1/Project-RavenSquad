@@ -39,7 +39,7 @@ Run the script from the command line:
 ``` bash
 python extract_slot.py --input "slot files" --output "output"
 ```
---input : Path to the folder containing .slot files.
+--input : Path to the folder containing `.slot` files.
 --output: Path to the folder where extracted chunks and logs will be saved.
 After running, you will see a folder structure like:
 
